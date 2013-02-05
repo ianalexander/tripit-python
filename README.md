@@ -1,4 +1,4 @@
-TripIt - IanAlexander Fork
+tripit-python - IanAlexander Fork
 ==========================
 Just a quick fork to get the library in the correct format to do a import tripit for the entire folder
 
